@@ -1,6 +1,6 @@
 {
-  "name": "hexo-theme-butterfly",
-  "version": "4.12.0",
+  "name": "hexo-theme-Kasumi",
+  "version": "beta-0.1",
   "description": "A Simple and Card UI Design theme for Hexo",
   "main": "package.json",
   "scripts": {
@@ -9,24 +9,26 @@
   "keywords": [
     "hexo",
     "theme",
-    "butterfly",
+    "kasumi",
     "Card UI Design",
-    "Jerry",
-    "hexo-theme-butterfly"
+    "Akimio",
+    "秋澪",
+    "秋澪Akimio",
+    "hexo-theme-kasumi"
   ],
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/jerryc127/hexo-theme-butterfly.git"
+    "url" : "https://github.com/Akimio521/hexo-theme-Kasumi.git"
   },
   "bugs": {
-    "url": "https://github.com/jerryc127/hexo-theme-butterfly/issues",
-    "email": "my@crazywong.com"
+    "url": "https://github.com/Akimio521/hexo-theme-Kasumi/issues",
+    "email": "akimio2333@gmail.com"
   },
   "dependencies": {
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-renderer-pug": "^3.0.0"
   },
-  "homepage": "https://butterfly.js.org/",
-  "author": "Jerry <my@crazywong.com>",
+  "homepage": "https://blog.akimio.top/",
+  "author": "秋澪Akimio <akimio2333@gmail.com>",
   "license": "Apache-2.0"
 }
